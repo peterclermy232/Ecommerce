@@ -14,7 +14,7 @@ const ShowProducts = ({filter, filterProduct,data , setFilter}) => {
         <button className='btn btn-outline-dark me-2' onClick={()=>filterProduct("jewelery")}>Jewelry's clothing</button>
         <button className='btn btn-outline-dark me-2' onClick={()=>filterProduct("electronics")}>Electronics</button>
     </div>
-    
+    //
     {filter.map((product)=>{
         return(
             <>
