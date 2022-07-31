@@ -1,12 +1,11 @@
 import React from 'react'
-
 import { Products } from './Products'
 
 const Home = () => {
     return (
         <div className='hero'>
             <div className="card bg-dark text-white border-0 ">
-                <img src="https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg" className="card-img" alt="Background " height="850px" />
+                <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/86Jcdo1gMVe/4Ac0IrG/qD/UIoJLNooA7bV5qLWLx/na/V/IWr1tu3dVfLwbR8PZgbLPmg05cHr7p/NLglMjT4j86YS9ddjKjaquGNNVl1Z5ub/className="card-img" alt="Background " height="850px" />
                 <div className="card-img-overlay d-flex flex-column
                 justify-content-center">
                     <div className="container">

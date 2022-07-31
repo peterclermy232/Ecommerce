@@ -4,7 +4,7 @@ import { Navbar } from './component/Navbar';
 import {Routes, Route} from 'react-router-dom';
 import { Products } from './component/Products';
 import Goods from './component/Goods';
-import Contact from './component/Contact';
+import 
 
 function App() {
   return (
